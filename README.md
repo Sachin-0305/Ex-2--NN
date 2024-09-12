@@ -1,6 +1,6 @@
 <H3>Name : SACHIN M</H3>
 <H3>Register no. : 212223040177</H3>
-<H3>Date</H3>
+<H3>Date : 12/09/2024</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
